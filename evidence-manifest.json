@@ -1,0 +1,76 @@
+{
+  "asOf": "2026-10-30",
+  "publicScope": "Curated documentation only. No original code, credentials, individual farmer records or unpublished recordings.",
+  "readOnlyMeaning": "Anonymous viewing; no write access granted. Public copies and downloads remain possible.",
+  "sources": [
+    {
+      "source": "shinchuljin77/worldfarm-portfolio/main/01_%EC%9B%94%EB%93%9C%ED%8C%9C%EC%95%B1/README.md",
+      "blobSha": "f62de8eab980ab02cac9825fd748ee6369035b17",
+      "status": "read",
+      "category": "selected"
+    },
+    {
+      "source": "shinchuljin77/worldfarm-portfolio/main/02_%EC%9E%91%EB%AC%BC%EC%A7%84%EB%8B%A8/README.md",
+      "blobSha": "fd7174aad717c9ca3bb3bb227809e08fb7c6f722",
+      "status": "read",
+      "category": "selected"
+    },
+    {
+      "source": "shinchuljin77/worldfarm-portfolio/main/03_%EC%84%A0%EB%B3%84%EA%B8%B0/README.md",
+      "blobSha": "66111975082601a3604d17f3a3da865375b59815",
+      "status": "read",
+      "category": "selected"
+    },
+    {
+      "source": "shinchuljin77/natural-code/codex/snapshot-20261029/HANDOFF.md",
+      "blobSha": "d0243d65dc13047cff9f8fb87ed3f75645d3b897",
+      "status": "read",
+      "category": "selected"
+    },
+    {
+      "source": "shinchuljin77/zucchini-sorter-archive/main/README.md",
+      "blobSha": "08392fbb5e8f48c4a3bd5b50846f2ee2683f0042",
+      "status": "read",
+      "category": "selected"
+    },
+    {
+      "source": "shinchuljin77/worldfarm-ai/main/README.md",
+      "blobSha": "b9176a5d60b0a6f4f233b52062c1fd8666758991",
+      "status": "read",
+      "category": "additional"
+    },
+    {
+      "source": "shinchuljin77/worldfarm-agents/main/README.md",
+      "blobSha": "71af73d0d08ac6d1fd57fb3c35d809c054df6bdd",
+      "status": "read",
+      "category": "additional"
+    },
+    {
+      "source": "remote read incomplete",
+      "blobSha": null,
+      "status": "not read",
+      "category": "additional"
+    },
+    {
+      "source": "remote read incomplete",
+      "blobSha": null,
+      "status": "not read",
+      "category": "additional"
+    },
+    {
+      "source": "shinchuljin77/natural-code/codex/snapshot-20261029/evidence/%EC%99%84%EB%A3%8C%EB%B3%B4%EA%B3%A0_r66.md",
+      "blobSha": "26749abeed7508b7751844bc7bec285c11cd8448",
+      "status": "read",
+      "category": "natural-latest"
+    }
+  ],
+  "release": {
+    "webVersion": 17,
+    "androidVersion": "1.0.12",
+    "androidVersionCode": 13,
+    "apkSha256": "ca3e504e6de3cad5d63820953aef3c9663af0bfd1d6101a050b597eb9bd385a7",
+    "physicalPhoneVerified": false,
+    "fieldAccuracyVerified": false
+  },
+  "noNewPaidModelCalls": true
+}
